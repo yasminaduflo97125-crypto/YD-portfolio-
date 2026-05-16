@@ -163,4 +163,46 @@
   "lien": null,
   "download": null
 }
+{
+    "titre": "Tasty Crousty",
+    "tag": "design",
+    "img": "Images/tasty_crousty.png",
+    "alt": "Affiche Tasty Crousty — Les Délices d'Iza",
+    "categorie": "Design · Affiche · Canva",
+    "desc": "Création d'une affiche publicitaire pour le plat signature du traiteur artisanal Les Délices d'Iza — le Tasty Crousty, un plat riz/poulet/oignons frits à 10€ avec Coca. Composition dynamique sur fond rouge-orangé, mise en appétit garantie.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "SUNRÉA",
+    "tag": "design",
+    "img": "Images/affiche_event_fictif.png",
+    "alt": "Affiche événement fictif SUNRÉA — Plage de Leroux, Deshaies",
+    "categorie": "Design · Affiche événementielle · Canva",
+    "desc": "Affiche pour un événement caribéen fictif — soirée Gwo Ka, contes, DJ set afro-caribéen et food à la Plage de Leroux, Deshaies. Esthétique tropicale et festive, palette coucher de soleil.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "BLACKPINK ",
+    "tag": "design",
+    "img": "Images/Black_Pink.png",
+    "alt": "Visuel BLACKPINK — Lovesick Girls 600 millions de vues",
+    "categorie": "Design · Visuel fan-made · Canva",
+    "desc": "Visuel commémoratif fan-made pour les 600 millions de vues du clip Lovesick Girls de BLACKPINK sur YouTube. Esthétique K-pop noir et rose, typographie impactante.",
+    "lien": null,
+    "download": null
+  }
+   {
+    "titre": "IMPT",
+    "tag": "video",
+    "large": true,
+    "img": "Images/impt_thumb.png",
+    "alt": "Montage vidéo IMPT — sensibilisation au racisme",
+    "categorie": "Vidéo · Montage · Exercice BUT MMI",
+    "desc": "Court-métrage de sensibilisation au racisme réalisé en groupe dans le cadre d'un exercice BUT MMI. Montage vidéo, narration visuelle et travail collaboratif autour d'un sujet engagé.",
+    "lien": null,
+    "download": null,
+    "video": "Videos/impt_thumb.mp4"
+  }
 ]
