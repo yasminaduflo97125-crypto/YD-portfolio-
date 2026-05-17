@@ -193,16 +193,4 @@
     "lien": null,
     "download": null
   }
-   {
-    "titre": "IMPT",
-    "tag": "video",
-    "large": true,
-    "img": "Images/impt_thumb.png",
-    "alt": "Montage vidéo IMPT — sensibilisation au racisme",
-    "categorie": "Vidéo · Montage · Exercice BUT MMI",
-    "desc": "Court-métrage de sensibilisation au racisme réalisé en groupe dans le cadre d'un exercice BUT MMI. Montage vidéo, narration visuelle et travail collaboratif autour d'un sujet engagé.",
-    "lien": null,
-    "download": null,
-    "video": "Videos/impt_thumb.mp4"
-  }
 ]
